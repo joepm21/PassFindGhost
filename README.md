@@ -90,7 +90,7 @@ Basic Workflow
 
 📸 Screenshots
 
-<img width="702" height="582" alt="image" src="https://github.com/user-attachments/assets/89f3e577-c460-4251-bb68-3c90ed881ce2" />
+<img width="711" height="578" alt="image" src="https://github.com/user-attachments/assets/a5271758-8c88-4974-afb6-f5a241724d10" />
 
 🛠️ Technical Details
 - Supported Formats
