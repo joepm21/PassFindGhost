@@ -72,10 +72,15 @@ tkinter (usually included with Python)
 
 Installation 
 
-    git clone https://github.com/joepm21/PassFindGhost.git
-    cd PassFindGhost
-    pip install cryptography
-    python PassFindGhost.py
+download the binary in release
+
+https://github.com/joepm21/PassFindGhost/releases/tag/cryptography
+
+Install dependencias force
+
+    pip install cryptography --break-system-packages
+    chmod +x PassFindGhost
+    ./PassFindGhost
 
 🖥️ Usage Guide
 
