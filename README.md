@@ -104,6 +104,10 @@ Advanced Features
  - Bulk Operations: "Clear All" resets entire application state
  - Secure Copy: Context menu options for selective data copying
 
+To convert a file.txt to encrypted I use this tool
+
+    https://github.com/joepm21/cryptom4n
+
 🛡️ Security Considerations
 
 Best Practices
@@ -113,12 +117,6 @@ Best Practices
 ✅ Clear application state after use
 ✅ Keep the application updated
 
-Risk Mitigation
-
-❌ No plain text credential storage
-❌ No network transmission of data
-❌ No automatic file saving
-❌ No persistent memory caching
 
 ⚠️ Disclaimer
 This tool is intended for legitimate security research, penetration testing, and authorized auditing purposes only. Users are responsible for complying with all applicable laws and regulations.
